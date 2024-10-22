@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Umang Grover
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning and enhancing my ML skills along with Visualization tools like Power BI.
+- 👋 Hi, I’m Umang Grover.
+- 👀 I am currently working as a Generative AI engineer, specializing in Prompt Engineering.
 - 📫 You can reach me at umanggrover6@gmail.com
 - LinkedIn @umanggrover6
 
